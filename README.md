@@ -6,7 +6,7 @@ This is a project from lesson 4 of Udacity's Front-end Nanodegree. For this proj
 This is a fun frogger game where your objective is to move the Player across the screen to the water *while avoiding the enemy*!  You will use the **arrow** keys on your keyboard to move the player. If you hit an enemy or make it to the water you will reset the player to the bottom of the sceen. 
 
 ## Deployment
-To begin playing the game click on [Megan's Arcade Game](http://megdollar.github.io/Arcade_game)
+To begin playing the game click on [Megan's Arcade Game](http://megdollar.github.io/Arcade_Game)
 
 ## Languages used
 - HTML
