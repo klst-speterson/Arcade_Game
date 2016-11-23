@@ -15,4 +15,5 @@ To begin playing the game click on [Megan's Arcade Game](http://megdollar.github
 
 ## Author
 
-Megan Dollar and [Udacity](https://github.com/udacity/frontend-nanodegree-arcade-game)
+- Megan Dollar 
+- [Udacity](https://github.com/udacity/frontend-nanodegree-arcade-game)
